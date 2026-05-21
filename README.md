@@ -28,12 +28,12 @@ pip install -r requirements.txt
 ```
 
 **3. Ejecutar y utilizar el proyecto**  
-Todo el código y flujo de trabajo está contenido y explicado en el archivo de Jupyter Notebook principal: `Assignment9.ipynb`. 
+Todo el código y flujo de trabajo está contenido y explicado en el archivo de Jupyter Notebook principal: `FinalProject_SportsAnalytics_Using_DeepLearning.ipynb`. 
 Para iniciarlo, ejecuta:
 ```bash
-jupyter notebook Assignment9.ipynb
+jupyter notebook FinalProject_SportsAnalytics_Using_DeepLearning.ipynb
 ```
-O, si usas VS Code u otro editor que soporte Notebooks, simplemente abre `Assignment9.ipynb` y ejecuta sus celdas una por una. La sección final en el Notebook es la responsable de cargar el video original, realizar las detecciones, aplicar las zonas y guardar el render final que se detalla en el siguiente paso.
+O, si usas VS Code u otro editor que soporte Notebooks, simplemente abre `FinalProject_SportsAnalytics_Using_DeepLearning.ipynb` y ejecuta sus celdas una por una. La sección final en el Notebook es la responsable de cargar el video original, realizar las detecciones, aplicar las zonas y guardar el render final que se detalla en el siguiente paso.
 
 ## Ejemplo de Salida
 
